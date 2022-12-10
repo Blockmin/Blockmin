@@ -1,2 +1,1 @@
-### Hi there 👋
-test
+### Hi, I'm Blockmin 👋
